@@ -1,9 +1,0 @@
-{
-    "build": {
-      "command": "npm run build",
-      "env": {
-        "VERBOSE": "1"
-      }
-    }
-  }
-  
